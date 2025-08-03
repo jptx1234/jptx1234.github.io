@@ -2,7 +2,7 @@
   "name": "jptx1234.github.io",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://jptx1234.github.io",
+  "homepage": "https://jptx1234.github.io/jptx1234.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
